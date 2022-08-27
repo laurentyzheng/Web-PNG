@@ -1,9 +1,3 @@
-/**
- * @brief  A shared memory that makes use of C struct 
- * @author yqhuang@uwaterloo.ca
- */
-
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>

@@ -1,9 +1,3 @@
-/* The code is 
- * Copyright(c) 2018-2019 Yiqing Huang, <yqhuang@uwaterloo.ca>.
- *
- * This software may be freely redistributed under the terms of the X11 License.
- */
-
 /**
  * @file   forkN.c
  * @brief  fork N child processes and time the overall execution time  

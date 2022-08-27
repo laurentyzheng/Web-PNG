@@ -1,9 +1,3 @@
-/*
- * Copyright 2019 Yiqing Huang, <yqhuang@uwaterloo.ca>.
- *
- * This software may be freely redistributred under the terms of the X11 license.
- */
-
 /**
  * @file  main.c 
  * @brief demonstrate C function pointer usage

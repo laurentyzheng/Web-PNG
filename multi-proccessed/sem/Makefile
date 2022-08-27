@@ -1,7 +1,3 @@
-
-# Makefile, ECE252  
-# Yiqing Huang, 2019/06/12
-
 CC = gcc       # compiler
 CFLAGS = -Wall -g -std=gnu99# compilation flg 
 LD = gcc       # linker

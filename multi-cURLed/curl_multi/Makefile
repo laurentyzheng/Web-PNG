@@ -1,6 +1,3 @@
-# Makefile, ECE252  
-# Yiqing Huang
-
 CC = gcc 
 CFLAGS_LIBS = $(shell pkg-config --cflags libxml-2.0 libcurl)
 CFLAGS = -Wall $(CFLAGS_LIBS) -std=gnu99 -g

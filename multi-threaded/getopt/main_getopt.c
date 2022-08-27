@@ -1,15 +1,3 @@
-/*
- * The code is derived from paster.c
- * Copyright (C) 2013-2019, Patrick Lam, <p23lam@uwaterloo.ca>.
- *
- * Modifications to the code are
- * Copyright 2019, Yiqing Huang, <yqhuang@uwaterloo.ca>
- * 
- * This software may be freely redistributed under the terms
- * of the X11 license. 
- */
-
-
 /**
  * @file main_getopt.c
  * @brief using getopt to parse command-line options 

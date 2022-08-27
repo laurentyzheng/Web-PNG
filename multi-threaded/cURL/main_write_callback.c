@@ -1,12 +1,6 @@
 /*
  * The code is based on the cURL example at URL:
  * https://curl.haxx.se/libcurl/c/getinmemory.html
- * Copyright (C) 1998 - 2018, Daniel Stenberg, <daniel@haxx.se>, et al..
- *
- * Modifications to the code are
- * Copyright 2018-2019, Yiqing Huang, <yqhuang@uwaterloo.ca>.
- * 
- * This software may be freely redistributed under the terms of the X11 license.
  */
 
 /** 

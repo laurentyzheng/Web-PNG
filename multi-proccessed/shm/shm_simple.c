@@ -1,8 +1,4 @@
 
-/**
- * @brief A simple shared memory, no structure involved. 
- * @author yqhuang@uwaterloo.ca
- */
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/shm.h>

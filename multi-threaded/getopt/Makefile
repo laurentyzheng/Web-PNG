@@ -1,6 +1,4 @@
 
-# Makefile, ECE252  
-# Yiqing Huang 
 
 CC = gcc
 CFLAGS = -Wall -g -std=gnu99

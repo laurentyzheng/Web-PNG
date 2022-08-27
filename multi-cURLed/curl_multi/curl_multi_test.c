@@ -1,8 +1,5 @@
 /* curl_multi_test.c
 
-   Clemens Gruber, 2013
-   <clemens.gruber@pqgruber.com>
-
    Code description:
     Requests 4 Web pages via the CURL multi interface
     and checks if the HTTP status code is 200.

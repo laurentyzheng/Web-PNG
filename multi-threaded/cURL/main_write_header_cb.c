@@ -1,18 +1,3 @@
-/*
- * The code is derived from cURL example and paster.c base code.
- * The cURL example is at URL:
- * https://curl.haxx.se/libcurl/c/getinmemory.html
- * Copyright (C) 1998 - 2018, Daniel Stenberg, <daniel@haxx.se>, et al..
- *
- * The paster.c code is 
- * Copyright 2013 Patrick Lam, <p23lam@uwaterloo.ca>.
- *
- * Modifications to the code are
- * Copyright 2018-2019, Yiqing Huang, <yqhuang@uwaterloo.ca>.
- * 
- * This software may be freely redistributed under the terms of the X11 license.
- */
-
 /** 
  * @file main_wirte_read_cb.c
  * @brief cURL write call back to save received data in a user defined memory first

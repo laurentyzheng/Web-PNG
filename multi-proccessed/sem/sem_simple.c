@@ -1,7 +1,7 @@
 
 /**
  * @brief An example of POSIX unamed semaphore shared between processes 
- * @author yqhuang@uwaterloo.ca
+ * @author l72zheng@uwaterloo.ca
  */
 
 //#define _XOPEN_SOURCE 500

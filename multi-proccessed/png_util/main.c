@@ -1,10 +1,3 @@
-/**
- * @biref To demonstrate how to use zutil.c and crc.c functions
- *
- * Copyright 2018-2020 Yiqing Huang
- *
- * This software may be freely redistributed under the terms of MIT License
- */
 
 #include <stdio.h>    /* for printf(), perror()...   */
 #include <stdlib.h>   /* for malloc()                */

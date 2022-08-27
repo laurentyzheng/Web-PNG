@@ -2,11 +2,6 @@
  * @brief: in memory deflation (zip) and inflation (unzip) routines 
  *
  * Based on the zlib example zpipe.c at https://www.zlib.net/zlib_how.html
- *
- * Modification is
- * Copyright 2018-2020 Yiqing Huang
- *
- * This software may be freely redistributed under the terms of MIT License
  */
 
 #include <stdio.h>

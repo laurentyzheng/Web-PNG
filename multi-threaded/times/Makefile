@@ -1,7 +1,3 @@
-
-# Makefile, ECE252  
-# Yiqing Huang, 2018/11/02
-
 CC = gcc
 CFLAGS = -Wall -g # "curl-config --cflags" output is NULL 
 LD = gcc

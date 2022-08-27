@@ -1,9 +1,3 @@
-/*
- * Copyright(c) 2018-2019 Yiqing Huang, <yqhuang@uwaterloo.ca>.
- *
- * This software may be freely redistributed under the terms of the X11 License.
- */
-
 /**
  * @file main.c
  * @biref To create and join 2 threads. Each thread takes more than one input parameter 

@@ -1,9 +1,3 @@
-/*
- * Copyright(c) 2018-2019 Yiqing Huang, <yqhuang@uwaterloo.ca>.
- *
- * This software may be freely redistributed under the terms of the X11 License.
- */
-
 /**
  * @file main_simple.c
  * @brief Using cURL to get request a URL and output the response

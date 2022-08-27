@@ -1,7 +1,7 @@
 /**
  * @file util_times.h
  * @brief utility function to obtain time resource usage.
- * @author yqhuang@uwaterloo.ca
+ * @author l72zheng@uwaterloo.ca
  */
 #pragma once
 
