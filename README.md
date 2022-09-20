@@ -1,4 +1,4 @@
-# Web PNG Verify and Concantenate
+# Web PNG Verify and Concatenate
 
 ## Multi-Threaded
 This program cURLs all valid PNG images in a website that are in fragments, creating a new image through concantenating algorithms that multipulates the IDAT PNG data. 
